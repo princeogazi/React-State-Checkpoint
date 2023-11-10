@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardbox {
+  color: white;
+  background-color: green;
+  border-radius: 20px;
+  margin-top: 50px;
+  padding-top: 10px;
+}
+
+.cardimage {
+  border-radius: 20px;
+  width: 200px;
+  height: 250px;
+  margin-top: 10px;
+}
+
+.tbutton {
+  color: white;
+  background-color: darkblue;
+  height: 50px;
+  border-radius: 20px;
+}
+
+/* Button shows profile and hides profile */
